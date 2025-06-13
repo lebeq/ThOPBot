@@ -1,3 +1,3 @@
 # ThOPBot
 
-Proof of concept für ien Telegram chatbot. 
+Proof of concept für einen Telegram chatbot. 
